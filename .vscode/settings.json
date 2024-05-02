@@ -1,0 +1,18 @@
+{
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.project.referencedLibraries": {
+        "include": [
+            "c:\\Program Files\\Java\\jdk-17\\lib\\jcommon-1.0.0.jar",
+            "c:\\Program Files\\Java\\jdk-17\\lib\\jfreechart-1.0.1.jar"
+        ],
+        "exclude": [
+            "c:\\Program Files\\Java\\jdk-17\\lib\\gnujaxp.jar",
+            "c:\\Program Files\\Java\\jdk-17\\lib\\jrt-fs.jar",
+            "c:\\Program Files\\Java\\jdk-17\\lib\\junit.jar",
+            "c:\\Program Files\\Java\\jdk-17\\lib\\servlet.jar"
+        ]
+    },
+    "java.project.sourcePaths": [
+        "."
+    ]
+}
